@@ -1,0 +1,8 @@
+/tools/
+/backups/
+/fonts/extracted/
+/scripts/extracted/
+/scripts/shipped/
+
+data.win
+data.win.orig
